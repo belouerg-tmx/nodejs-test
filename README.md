@@ -81,7 +81,7 @@ First, we will create a docker image for the application.
 6. Dockerfile should look like this
 ```
 FROM node:10
-# Create app directory
+# Create app directory4fretret
 WORKDIR /usr/app
 
 # Install app dependencies
